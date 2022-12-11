@@ -1,4 +1,4 @@
-👋😄 Hi, I'm Adrian Curry
+👋 😄 Hi, I'm Adrian Curry
 
 
 * 🥳 I’m a fan of Excel, SQL, Tableau, and Power BI
